@@ -33,20 +33,20 @@ html {
   z-index: 1;
   left: 12em;
   top: 6em;
-  -webkit-transform:rotate(-11deg);
+  -webkit-transform: rotate(-11deg);
 }
 
 .polaroid:nth-child(2) {
   left: 18em;
   top: 9em;
-  -webkit-transform:rotate(4deg);
+  -webkit-transform: rotate(4deg);
   z-index: 3;
 }
 
 .polaroid:nth-child(3) {
   left: 24em;
   top: 6em;
-  -webkit-transform:rotate(33deg);
+  -webkit-transform: rotate(33deg);
   z-index: 2;
 }
 
