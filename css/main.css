@@ -26,14 +26,17 @@ html {
 
 .polaroid:first-child {
   left:12em;
+  top: 6em;
 }
 
 .polaroid:nth-child(2) {
   left:18em;
+  top: 9em;
 }
 
 .polaroid:nth-child(3) {
   left:24em;
+  top: 6em;
 }
 
 .polaroid:hover {
